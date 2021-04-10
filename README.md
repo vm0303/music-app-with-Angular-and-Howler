@@ -24,4 +24,5 @@ To get more help on the Angular CLI use ng help or go check out the Angular CLI 
 # References used to build this app
 These are some of the references I have used to complete this project
 Howler Documentation: https://github.com/goldfire/howler.js/
+
 Music from Kevin MacLeod: https://incompetech.com/music/royalty-free/music.html
