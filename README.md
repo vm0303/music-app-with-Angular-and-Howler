@@ -21,6 +21,6 @@ Run ng e2e to execute the end-to-end tests via Protractor.
 # Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
 
-#References used to build this app
+# References used to build this app
 Howler Documentation: https://github.com/goldfire/howler.js/
 Music from Kevin MacLeod: https://incompetech.com/music/royalty-free/music.html
