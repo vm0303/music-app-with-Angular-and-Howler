@@ -28,4 +28,4 @@ Howler Documentation: https://github.com/goldfire/howler.js/
 
 Music from Kevin MacLeod: https://incompetech.com/music/royalty-free/music.html
 
-Design ideas and basic implementation ideas by Traversy Media: "https://www.youtube.com/watch?v=f6SrTZwZi70"
+Design ideas and basic implementation ideas by Traversy Media: https://www.youtube.com/watch?v=f6SrTZwZi70
