@@ -1,5 +1,5 @@
 # music-app-with-Angular-and-Howler
-This is a cool project I did for a class project where I have to create an app using Angular and Howler.js
+This is a cool project I did for a class where I have to create an app using Angular and Howler.js
 
 This project was generated with Angular CLI version 11.2.6.
 
